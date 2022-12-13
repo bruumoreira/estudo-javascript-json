@@ -1,7 +1,7 @@
-# JSON
+# Javascript JSON
 
 ## Nome
-JSON
+Javascript JSON
 
 ## Descrição
 Nesse repositório foi possível aprender e colocar em prática as funcionalidades do JSON
