@@ -21,7 +21,7 @@ Nesse repositório foi possível aprender e colocar em prática as funcionalidad
 
 ## Tecnologias
 - JavaScript
-    -JSON
+    - JSON
   
 ## Inicialização
 ...
