@@ -1,0 +1,11 @@
+apiVersion: animais
+animals:
+  - name: cat
+    specie: feline
+    years: 8
+  - name: macaw
+    specie: bird
+    years: 2
+  - name: lion
+    specie: feline
+    years: 9

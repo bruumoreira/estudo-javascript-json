@@ -1,0 +1,17 @@
+[
+    {
+        "nome": "Gato",
+        "especie": "Felino",
+        "idade": 6
+    },
+    {
+        "nome": "Arara",
+        "especie": "Ave",
+        "idade": 2
+    },
+    {
+        "nome": "Leão",
+        "especie": "Felino",
+        "idade": 9
+    }
+]
